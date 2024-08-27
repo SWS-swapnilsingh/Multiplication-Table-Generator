@@ -1,6 +1,6 @@
-# Multiplication Table Master
+# Multiplication Table Generator
 
-Welcome to **Multiplication Table Master**! This interactive Streamlit app lets you generate multiplication tables and perform quick multiplications with ease. Whether you're brushing up on basic math or simply having fun with numbers, this app has got you covered.
+Welcome to **Multiplication Table Generator**! This interactive Streamlit app lets you generate multiplication tables and perform quick multiplications with ease. Whether you're brushing up on basic math or simply having fun with numbers, this app has got you covered.
 
 ## Features
 
